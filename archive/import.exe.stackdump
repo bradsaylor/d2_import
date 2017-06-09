@@ -1,9 +1,0 @@
-Exception: STATUS_ACCESS_VIOLATION at eip=61158E06
-eax=0022C7D4 ebx=00000000 ecx=0022C7D4 edx=00000000 esi=0022C8B4 edi=0022C844
-ebp=0022CC78 esp=0022C730 program=C:\cygwin\home\rbs\Documents\programming\D2_import_utility\import.exe, pid 4960, thread main
-cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
-Stack trace:
-Frame     Function  Args
-0022CC78  61158E06 (612F35FA, 611D8DAE, 0022CD28, 61007B8F)
-0022CD28  61007B8F (00000000, 0022CD84, 61006BC0, 00000000)
-End of stack trace
